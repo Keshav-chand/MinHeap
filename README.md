@@ -1,0 +1,1 @@
+Write a program to implement Min Heap using an array after every insertion. Start Inserting values from Array Index 1. Use 0 to indicate that the value in the array index is null (By default every index will hold value 0 in the array when created).
